@@ -5,7 +5,10 @@
 [<img align="left" class="mr dark" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-dark-mode-only" />][website]
 [<img align="left" class="mr dark" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg#gh-dark-mode-only" />][twitter]
 [<img align="left" class="mr dark" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg#gh-dark-mode-only" />][linkedin]
-![Instagram](./icons/dark/instagram.svg | width=22)[instagram]
+[<img align="left" class="mr dark" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg#gh-dark-mode-only" />][instagram]
+
+## My Stats
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leecbryant)](https://github.com/leecbryant/github-readme-stats)
 
 <br/>
 <br/>
