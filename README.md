@@ -1,10 +1,10 @@
 ### Welcome👋 I'm [Lee Bryant][website]!
 
 ## Connect with me
-[<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-dark-mode-only" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg#gh-dark-mode-only" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg#gh-dark-mode-only" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg#gh-dark-mode-only" />][instagram]
+[<img align="left" alt="Personal Website" width="22px" src="./icons/globe.png" />][website]
+[<img align="left" alt="Twitter" width="22px" src="./icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="./icons/instagram.png" />][instagram]
 
 <br/>
 
