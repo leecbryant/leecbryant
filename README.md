@@ -28,7 +28,7 @@
 <br/>
 
 ## My Stats
-[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leecbryant)](https://github.com/leecbryant/github-readme-stats)
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leecbryant&show_icons=true&theme=dark)](https://github.com/leecbryant/github-readme-stats)
 
 <br/>
 <br/>
