@@ -5,7 +5,7 @@
 [<img align="left" class="mr dark" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-dark-mode-only" />][website]
 [<img align="left" class="mr dark" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg#gh-dark-mode-only" />][twitter]
 [<img align="left" class="mr dark" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg#gh-dark-mode-only" />][linkedin]
-![Instagram](./icons/dark/instagram.svg =22x22)[instagram]
+![Instagram](./icons/dark/instagram.svg | width=22)[instagram]
 
 <br/>
 <br/>
