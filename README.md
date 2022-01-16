@@ -1,6 +1,4 @@
-## Welcome👋 I'm [Lee Bryant][website]!
-
-<br/>
+### Welcome👋 I'm [Lee Bryant][website]!
 
 ## Connect with me
 [<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-dark-mode-only" />][website]
